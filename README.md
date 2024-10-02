@@ -2,6 +2,9 @@
 25 fanzine
 ![25junfanzine](https://github.com/user-attachments/assets/1397987f-f8d5-40bf-9851-26f879ca9223)
 collage 25 fanzine
+![25junfanzine](https://github.com/user-attachments/assets/eff85df7-5b3d-4423-b04c-68a3e7e5e343)
+
+
 ![Diseño sin título](https://github.com/user-attachments/assets/4aab12d5-309b-441f-bd4a-ae869564e892)
 
 yunus
