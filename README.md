@@ -74,3 +74,7 @@ collage cbre
 
 FOTO MIA
 ![Foto Renata Ramos](https://github.com/user-attachments/assets/1bb38048-1e27-42a4-822e-1bc19773e27a)
+
+cuadrada
+![Foto Renata Ramos dkjdi](https://github.com/user-attachments/assets/747c7de4-5c56-48a9-855b-6ebbdbec4fe2)
+
