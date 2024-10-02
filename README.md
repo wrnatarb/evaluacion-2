@@ -5,12 +5,12 @@ collage 25 fanzine
 ![Diseño sin título](https://github.com/user-attachments/assets/4aab12d5-309b-441f-bd4a-ae869564e892)
 
 yunus
-![yunus](https://github.com/user-attachments/assets/7dc35030-83f3-414d-8a30-3da2fa7a26a0)
+![yunus](https://github.com/user-attachments/assets/08b082ec-1526-4dfa-bd94-8ef01e48aa4c)
 college yunus
 ![Diseño sin título (1)](https://github.com/user-attachments/assets/435e712c-4de1-4c68-898c-da86ba7624c1)
 
 luminaria
-![luminaria](https://github.com/user-attachments/assets/09189e52-1e6b-45d4-a46f-5edf5f0b0fe0)
+![luminaria](https://github.com/user-attachments/assets/1a73ffdb-c602-4cec-910d-f8bf1bc32e74)
 collage
 ![Diseño sin título (2)](https://github.com/user-attachments/assets/ade781a8-87a3-475a-9e8d-06bf922f9b43)
 
@@ -21,22 +21,50 @@ collage
 ![Diseño sin título (3)](https://github.com/user-attachments/assets/df18c6e5-234b-4efe-ae10-43285c321c76)
 
 renca
-![renca](https://github.com/user-attachments/assets/62ca4b74-b8ad-4682-b7bf-1b284b9e7b69)
+![renca](https://github.com/user-attachments/assets/cc207c4a-fd81-4b82-b992-d799958fac17)
+collage renca
+![Diseño sin título (1)](https://github.com/user-attachments/assets/bc3e9f8e-12e3-4b67-86a6-54519c58b5b7)
+
 
 libro
-![libro](https://github.com/user-attachments/assets/90a63085-7057-43ed-aa09-c3c577326781)
+![libro](https://github.com/user-attachments/assets/3aa707b4-1941-43a9-9ed8-804fb9e38522)
+collage libro
+![Diseño sin título (1)](https://github.com/user-attachments/assets/7219e777-60bd-4c71-99ca-7e3df0608e18)
+
+
 
 woofy
 ![woofy](https://github.com/user-attachments/assets/c045dbee-ed40-40e0-ac7e-397145706ab2)
+collage woofy
+![Diseño sin título (3)](https://github.com/user-attachments/assets/b93be267-543b-4a15-bb5c-28dafe9b09b2)
+
 
 violeta wav
-![violetawav](https://github.com/user-attachments/assets/50be353f-ca53-413f-b5bc-74444e95a2ef)
+![violetawav](https://github.com/user-attachments/assets/8bb11402-28ec-420a-9bcc-78b3900af909)
+collage violeta
+![Diseño sin título (5)](https://github.com/user-attachments/assets/9b6c21bf-e69d-450c-9a2a-84f1df775961)
+
 
 banki 
-![banki](https://github.com/user-attachments/assets/4848724e-caab-4c91-9623-fcefd3b5b1b8)
+![banki](https://github.com/user-attachments/assets/cff0efdc-ee22-4c44-9636-6d04450d1a1d)
+collage banki
+![Diseño sin título (6)](https://github.com/user-attachments/assets/70b03104-cb92-401c-b2b7-6daea4e6da0c)
+
 
 invasion a la bio
-![invasion a la bio](https://github.com/user-attachments/assets/2decd70a-6ee7-4fc4-806e-9b60029ea16a)
+![invasion bio](https://github.com/user-attachments/assets/0f625abe-948c-44b8-8b90-4ec8fea9514f)
+collage
+![Diseño sin título (7)](https://github.com/user-attachments/assets/c0addc68-269a-42f1-8a10-1a1524f07a1e)
+
+
 
 fanzine
-![fanzine](https://github.com/user-attachments/assets/97e982e6-0f0a-446d-a301-3f94ddaaefe3)
+![fanzine](https://github.com/user-attachments/assets/efddfbeb-08cc-415a-9ea5-ccb461acea4b)
+collage fanzine
+![Diseño sin título (4)](https://github.com/user-attachments/assets/5f314f8e-ee15-4ea1-a479-e6f7e9626d11)
+
+cbre
+![Captura de pantalla 2024-10-02 114737](https://github.com/user-attachments/assets/edfd7c7f-14c1-4ca8-80e4-5b09de4ceebc)
+collage cbre
+![Diseño sin título (8)](https://github.com/user-attachments/assets/c3619869-593c-48b8-a90b-4da9ef5005f2)
+
