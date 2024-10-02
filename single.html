@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>📂 RENATA RAMOS</title>
+        <link rel="stylesheet" href="style.css" />
+        <style>
+    .foto-astro {
+        max-width: 50%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+</style>
+    </head>
+    <body>
+        <header>
+            <h1></h1>
+            <a href="index.html">‹ Volver al Portafolio de Diseño</a>
+        </header>
+
+        <main></main>
+
+        <script>
+            //vamos a buscar un dato
+
+            var x = new URLSearchParams(window.location.search).get("data");
+
+            const autoria = document.querySelector("h1");
+
+            autoria.innerHTML = "RENATA RAMOS";
+
+            const principal = document.querySelector("main");
+
+            const seleccion = document.querySelector("select");
+
+            //acá voy por el JSON
+
+            async function astros() {
+                const consulta = await fetch("https://raw.githubusercontent.com/wrnatarb/evaluacion-2/refs/heads/main/datos.json");
+                const data = await consulta.json();
+                console.log(data);
+
+                if (x) {
+                    principal.innerHTML += `<h2>${data[x].nombre}</h2><p>${data[x].fecha}</p><p>${data[x].desc}</p><img src="${data[x].fotos}">`;
+                } else {
+                    window.location.href = "index.html";
+                }
+            }
+            astros().catch((error) => console.error(error));
+        </script>
+    </body>
+</html>
