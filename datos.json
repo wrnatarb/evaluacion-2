@@ -5,6 +5,7 @@
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/8bb11402-28ec-420a-9bcc-78b3900af909",
         "github": "https://github.com/wrnatarb",
+        "desc": "Afiche de documental en colaboracion con Prisma Distribution",
         "fotos": "https://github.com/user-attachments/assets/9b6c21bf-e69d-450c-9a2a-84f1df775961"
     },
     {
@@ -12,6 +13,7 @@
         "fecha": "2024-02",
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/0f625abe-948c-44b8-8b90-4ec8fea9514f",
+        "desc": "Afiche infografico con la tematica de expansion urbana hacia la precordillera y como afecta a la fauna",
         "github": "https://github.com/wrnatarb",
         "fotos": "https://github.com/user-attachments/assets/c0addc68-269a-42f1-8a10-1a1524f07a1e"
     },
@@ -19,6 +21,7 @@
         "nombre": "La Rebeldia de los Cuerpos Atravesado",
         "fecha": "2024-01",
         "signo": "visual",
+        "desc": "Publicacion homenaje a la obra inmersiva La Casa de Granada, de la compañia de teatro La Calderona.",
         "foto": "https://github.com/user-attachments/assets/3aa707b4-1941-43a9-9ed8-804fb9e38522",
         "github": "https://github.com/wrnatarb",
         "fotos": "https://github.com/user-attachments/assets/7219e777-60bd-4c71-99ca-7e3df0608e18"
@@ -27,6 +30,7 @@
         "nombre": "Fanzine",
         "fecha": "2023-01",
         "signo": "visual",
+        "desc": "Publicacion individual hecha a partir de ilustraciones digitales realizadas en Procreate. El fanzine consiste en capitulos con diferentes historias y personajes en un dia de lluvia",
         "foto": "https://github.com/user-attachments/assets/3e4683fe-9fc4-428d-85e9-54dbef723c3a",
         "github": "https://github.com/wrnatarb",
         "fotos": "https://github.com/user-attachments/assets/5f314f8e-ee15-4ea1-a479-e6f7e9626d11"
@@ -35,7 +39,8 @@
         "nombre": "Fanzine 25 junio",
         "fecha": "2023-01",
         "signo": "visual",
-        "foto": "https://github.com/user-attachments/assets/9b4290d9-affe-41c2-a280-35225627c182",
+        "desc": "Publicacion colaborativa sobre la marcha del orgullo",
+        "foto": "https://github.com/user-attachments/assets/eff85df7-5b3d-4423-b04c-68a3e7e5e343",
         "github": "https://github.com/wrnatarb",
         "fotos": "https://github.com/user-attachments/assets/4aab12d5-309b-441f-bd4a-ae869564e892"
     },
@@ -53,6 +58,7 @@
         "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/08b082ec-1526-4dfa-bd94-8ef01e48aa4c",
         "github": "https://github.com/wrnatarb",
+        "desc": "Diseño de zona de recepcion de academia Yunus",
         "fotos": "https://github.com/user-attachments/assets/435e712c-4de1-4c68-898c-da86ba7624c1"
     },
     {
@@ -61,6 +67,7 @@
         "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/c045dbee-ed40-40e0-ac7e-397145706ab2",
         "github": "https://github.com/wrnatarb",
+        "desc": "Casa para perro a partir de manufactura digital y ensambles 3D",
         "fotos": "https://github.com/user-attachments/assets/b93be267-543b-4a15-bb5c-28dafe9b09b2"
     },
     {
@@ -69,6 +76,7 @@
         "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/cff0efdc-ee22-4c44-9636-6d04450d1a1d",
         "github": "https://github.com/wrnatarb",
+        "desc": "Diseño de asiento en base a manufactura digital.",
         "fotos": "https://github.com/user-attachments/assets/70b03104-cb92-401c-b2b7-6daea4e6da0c"
     },
     {
@@ -77,6 +85,7 @@
         "signo": "servicios",
         "foto": "https://github.com/user-attachments/assets/7a75d0ce-82e8-45c0-b0d1-3556afbf298a",
         "github": "https://github.com/wrnatarb",
+        "desc": "Servicio digital diseñado para reducir la violencia ginecologica en Chile",
         "fotos": "https://github.com/user-attachments/assets/df18c6e5-234b-4efe-ae10-43285c321c76"
     },
     {
@@ -85,6 +94,7 @@
         "signo": "servicios",
         "foto": "https://github.com/user-attachments/assets/cc207c4a-fd81-4b82-b992-d799958fac17",
         "github": "https://github.com/wrnatarb",
+        "desc": "Sistema de productos interactivos para mejorar la experiencia de reciclaje",
         "fotos": "https://github.com/user-attachments/assets/bc3e9f8e-12e3-4b67-86a6-54519c58b5b7"
     },
     {
@@ -93,6 +103,7 @@
         "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/1a73ffdb-c602-4cec-910d-f8bf1bc32e74",
         "github": "https://github.com/wrnatarb",
+        "desc": "Diseño de luminaria urbana a partir de asiento referente Twist de Roberto Simprini",
         "fotos": "https://github.com/user-attachments/assets/ade781a8-87a3-475a-9e8d-06bf922f9b43"
     }
 ]
