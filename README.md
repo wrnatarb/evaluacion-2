@@ -59,7 +59,8 @@ collage
 
 
 fanzine
-![fanzine](https://github.com/user-attachments/assets/efddfbeb-08cc-415a-9ea5-ccb461acea4b)
+![fanzine](https://github.com/user-attachments/assets/3e4683fe-9fc4-428d-85e9-54dbef723c3a)
+
 collage fanzine
 ![Diseño sin título (4)](https://github.com/user-attachments/assets/5f314f8e-ee15-4ea1-a479-e6f7e9626d11)
 
